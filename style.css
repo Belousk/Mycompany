@@ -17,6 +17,7 @@ header{
 	background-color: #000;
 	display: flex;
 	padding-bottom: 5px;
+	position: fixed;
 }
 .header_logo {
 	color: #ffffff;
